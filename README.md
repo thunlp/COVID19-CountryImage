@@ -1,4 +1,4 @@
-# Country Image in COVID-19 Pandemic: A Case Study of China
+# COVID19-CountryImage
 
 This repo opens the labeled dataset used in an upcoming paper in which the image of China during COVID-19 is analyzed by performing an aspect-based sentiment analysis (ABSA) on Twitter data.
 
