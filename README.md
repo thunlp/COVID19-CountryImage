@@ -20,4 +20,10 @@ For all the sentimental attributes, `0` stands for "not related", `1` for "negat
 
 ## Citation
 
-To be added.
+Please cite this [paper](https://ieeexplore.ieee.org/document/9195107) if you use this dataset:
+
+H. Chen et al., "Country Image in COVID-19 Pandemic: A Case Study of China," in IEEE Transactions on Big Data, doi: 10.1109/TBDATA.2020.3023459.
+
+*or in bibtex:*
+
+@ARTICLE{9195107,  author={H. {Chen} and Z. {Zhu} and F. {Qi} and Y. {Ye} and Z. {Liu} and M. {Sun} and J. {Jin}},  journal={IEEE Transactions on Big Data},   title={Country Image in COVID-19 Pandemic: A Case Study of China},   year={2020},  volume={},  number={},  pages={1-1},}
