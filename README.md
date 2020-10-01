@@ -18,6 +18,41 @@ Each example in the dataset is made up of nine attributes:
 
 For all the sentimental attributes, `0` stands for "not related", `1` for "negative", `2` for "neutral" and `3` for "positive."
 
+## Data Collection
+
+This dataset is built on another [dataset](https://github.com/echen102/COVID-19-TweetIDs) which includes COVID-19-related tweets. We filter a sample of that dataset with the following China-related keywords:
+
+- china
+- chinese
+- cn virus
+- prc
+- wuhan
+- hubei
+- wu han
+- hu bei
+- ccp
+- cpc
+- communist
+- communism
+- socialism
+- socialist
+- beijing
+- shanghai
+- shenzhen
+- tibet
+- xinjiang
+- uyghur
+- eastturkistan
+- east turkistan
+- huawei
+- xijinping
+- liwenliang
+- wuflu
+- huoshenshan
+- leishenshan
+- findqiushi
+- chenqiushi
+
 ## Citation
 
 Please cite this [paper](https://ieeexplore.ieee.org/document/9195107) if you use this dataset:
