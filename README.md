@@ -61,4 +61,12 @@ H. Chen et al., "Country Image in COVID-19 Pandemic: A Case Study of China," in 
 
 *or in bibtex:*
 
-@ARTICLE{9195107,  author={H. {Chen} and Z. {Zhu} and F. {Qi} and Y. {Ye} and Z. {Liu} and M. {Sun} and J. {Jin}},  journal={IEEE Transactions on Big Data},   title={Country Image in COVID-19 Pandemic: A Case Study of China},   year={2020},  volume={},  number={},  pages={1-1},}
+    @ARTICLE{
+        author={H. {Chen} and Z. {Zhu} and F. {Qi} and Y. {Ye} and Z. {Liu} and M. {Sun} and J. {Jin}},
+        journal={IEEE Transactions on Big Data},
+        title={Country Image in COVID-19 Pandemic: A Case Study of China},
+        year={2020},
+        volume={},
+        number={},
+        pages={1-1},
+    }
